@@ -1,3 +1,2 @@
 This is a new file.
-Editing this line via main.
 Adding this feature through feature1.
